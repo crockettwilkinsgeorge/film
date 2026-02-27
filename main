@@ -1,17 +1,12 @@
 git init
 
-# Add your files to the "staging area"
 git add
 
-# Save the snapshot
 git commit -m "My first upload"
 
-# Rename your branch to 'main' (standard practice)
 git branch -M main
 
-# Link your local folder to the GitHub repository you just made
-# (Copy the URL from the GitHub page you just created)
-git remote add origin https://github.com/your-username/my-cool-site.git
+git remote add origin https://github.com/crockettwilkinsgeorge/film.git
 
 # Upload it!
 git push -u origin main
