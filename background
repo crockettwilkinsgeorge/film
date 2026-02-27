@@ -1,0 +1,8 @@
+<style>
+  body {
+    background-color: #f0f2f5; /* A soft light gray */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+</style>
